@@ -29,7 +29,7 @@ real-estate-price-predictor/
 
 ## 🚀 How to Run Locally
 ```bash
-git clone https://github.com/yourusername/real-estate-price-predictor.git
+git clone https://github.com/sohansputhran/real-estate-price-predictor.git
 cd real-estate-price-predictor
 pip install -r requirements.txt
 streamlit run app/app.py
